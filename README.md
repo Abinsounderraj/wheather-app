@@ -1,4 +1,4 @@
-https://wasp005.github.io/wheather-app/
+https://abinsounderraj.github.io/wheather-app/
 
 Simple weather app using HTML, CSS, and JavaScript
 
